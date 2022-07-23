@@ -1,0 +1,12 @@
+body{
+    background-image: url(../img/bk.jpg);
+    background-size: 100% 200%;
+}
+.con:nth-child(1){
+    width: 50em;
+    height: 60ex;
+    border: 1px solid white;
+    margin: 0 auto;
+    align-items: center;
+    box-shadow: 1px 1px 5px white;
+}
