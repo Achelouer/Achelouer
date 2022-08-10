@@ -1,11 +1,31 @@
-body{
-    
+*{
+    background-color: black;
 }
-.con:nth-child(1){
-    width: 50em;
-    height: 60ex;
-    border: 1px solid white;
-    margin: 0 auto;
-    align-items: center;
-    box-shadow: 1px 1px 5px white;
+
+.top{
+    height: 3vh;
+    background-color: rgb(31, 82, 82);
+    color:white;
+}
+
+.con{
+    margin-top: 5px;
+    margin-left: 5px;
+    color: white;
+}
+.con ul{
+    width: 8vw;
+    margin-top: 10px;
+    border-bottom:1px solid rgba(255, 255, 255, 0.466);
+    color: white;
+}
+.con div{
+    width: 100%;
+    height: 300px;
+    border-bottom: 1px solid white;
+}
+/*整体样式*/
+a{
+    text-decoration: none;
+    color: white;
 }
