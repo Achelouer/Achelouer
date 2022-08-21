@@ -13,13 +13,13 @@
     margin-left: 5px;
     color: white;
 }
-.con ul{
-    width: 8vw;
+.con-title{
+    /*border-bottom:1px solid white;*/
+    width: 80px;
+    text-decoration: underline 2px;
     margin-top: 10px;
-    border-bottom:1px solid rgba(255, 255, 255, 0.466);
-    color: white;
 }
-.con div{
+.con-display{
     width: 100%;
     height: 300px;
     border-bottom: 1px solid white;
